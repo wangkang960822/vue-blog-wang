@@ -1,5 +1,12 @@
 # vue-blog
-
+##打包上线到Netlify
+##1.安装netlify脚手架   cnpm install netlify-cli -g
+##2.测试是否安装成功 netlify
+##3.netlify deploy
+##4.问我们打包路径  输入dist
+##5.需要输入netlify deploy --prod 提交到服务器
+##6.输入项目路径名称 dist就可以
+##7.生成线上url地址：通过地址打开测试是否可以
 ## Project setup
 ```
 npm install
